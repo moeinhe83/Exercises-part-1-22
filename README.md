@@ -4,7 +4,7 @@ Question Number ===> 22
 
 Programming Language ===> Python
 
-Program description ===> 22th Exercise
+Program Description ===> 22th Exercise
 
 Example ===> Write A Program That Shows The Difference Between The Following Two Lists
 
